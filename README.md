@@ -1,2 +1,3 @@
 # AlgorithmsRevisited
-Revisited demo application for GitCheckUp project
+
+This demo project is to represent common errors and poor practices of students using GitHub.
